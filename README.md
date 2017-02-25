@@ -1,2 +1,2 @@
 # Smart-Traffic-Light-using-Fuzzy-Logic
-Computational intelligence shits.
+Computational intelligence - Fuzzy logic - shits. :-)
